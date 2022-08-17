@@ -1,0 +1,14 @@
+[
+    {
+        "name": "秀人网",
+        "url": "^https://www\\.(?:imn5|mntp|jpmnb|jpmn8|mn5|xgmn|jpxgmn|jpxgyw|xiurenji|xiurenb|xrmn|xrmn5)\\.(?:com|net|vip|cc|top)/.*\\.html",
+        "pageElement": "p>img",
+        "author": "bmp4cwa"
+    },
+    {
+        "name": "美女图123",
+        "url": "^https://(www|m)\\.meinvtu123\\.cc/",
+        "pageElement": "div>img",
+        "author": "bmp4cwa"
+    }
+]
